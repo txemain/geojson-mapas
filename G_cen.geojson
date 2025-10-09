@@ -1,11 +1,11 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "nombre_ekt": "NBIZAM001_NE-48905-E01-1" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 511403.27012828086, 4793757.1799295358 ] ] } },
-{ "type": "Feature", "properties": { "nombre_ekt": "NBIARI000_Ariz" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 510551.82993023482, 4786881.2099381555 ] ] } },
-{ "type": "Feature", "properties": { "nombre_ekt": "NBILEI001_NB-48054-2A-1" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 501506.36984245852, 4797056.5001439173 ] ] } },
-{ "type": "Feature", "properties": { "nombre_ekt": "NGILAS000_Lasarte" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 579820.77065746754, 4790316.2856004694 ] ] } },
-{ "type": "Feature", "properties": { "nombre_ekt": "NGIMEN000_NB-20901-1A-1" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 549679.66985378414, 4788796.750161048 ] ] } }
+{ "type": "Feature", "properties": { "nombre_ekt": "NBIZAM001_NE-48905-E01-1" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -318450.19937727484, 5356931.195799157 ] ] } },
+{ "type": "Feature", "properties": { "nombre_ekt": "NBIARI000_Ariz" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -319633.15732077305, 5347468.245763625 ] ] } },
+{ "type": "Feature", "properties": { "nombre_ekt": "NBILEI001_NB-48054-2A-1" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -332030.8256194198, 5361488.9148934521 ] ] } },
+{ "type": "Feature", "properties": { "nombre_ekt": "NGILAS000_Lasarte" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -224623.72728586569, 5351561.9687832855 ] ] } },
+{ "type": "Feature", "properties": { "nombre_ekt": "NGIMEN000_NB-20901-1A-1" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -265974.8309059969, 5349865.9697453007 ] ] } }
 ]
 }
 
