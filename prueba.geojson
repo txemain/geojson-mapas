@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 39, "arqueta": "SNSN-02587_1", "empalme": "SNSN-02587", "municipio": "DONOSTI", "provincia": "GIPUZKOA", "informador": "Chema Montiel (Elecnor)", "clase": "AMPLIACION RA", "ra": "DONOSTI-12A-2", "fechain": "2024\/10\/14", "fechafin": null, "incidencia": "AMPLIACION RA 1 gpon (15\/13) en FO11 de T5-00522 en CRA" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -218821.90210238681, 5359468.3980804989 ] ] } },
+{ "type": "Feature", "properties": { "id": 40, "arqueta": "DERI-00412", "empalme": "splitter 489-48-Z25-104412.3-SP", "municipio": "ZAMUDIO", "provincia": "BIZKAIA", "informador": "Mercedes Carrascal (Elecnor)", "clase": "AMPLIACION RA", "ra": "ZAMUDIO-E01-1", "fechain": "2024\/10\/15", "fechafin": null, "incidencia": "AMPLIACION RA 1 gpon (12\/4) en FO10 del T5-00890 en CRA DERI-00412" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -319703.68904654752, 5356569.2563549671 ] ] } }
+]
+}
