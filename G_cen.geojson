@@ -1,5 +1,6 @@
 {
 "type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
 "features": [
 { "type": "Feature", "properties": { "nombre_ekt": "NBIZAM001_NE-48905-E01-1" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -318450.19937727484, 5356931.195799157 ] ] } },
 { "type": "Feature", "properties": { "nombre_ekt": "NBIARI000_Ariz" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -319633.15732077305, 5347468.245763625 ] ] } },
